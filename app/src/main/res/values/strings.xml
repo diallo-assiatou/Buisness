@@ -1,12 +1,9 @@
 <resources>
-    <string name="app_name">BusinessCard</string>
-    <string name="name">Amian Attobra Charles</string>
+    <string name="app_name">Business</string>
     <string name="title">Developpeur d\'application</string>
     <string name="telephone">+225 07 68 63 29 88</string>
-    <string name="reseau_social">\@jeancharlesamian15</string>
-    <string name="email">jeancharlesamian15@gmail.com</string>
-    <string name="assiatou_diallo">Assiatou diallo</string>
-    <string name="developpeur_d_application">developpeur d\'application</string>
+    <string name="assiatou_diallo">Assiatou Diallo</string>
+    <string name="developpeur_d_application">Developpeur d\'Application</string>
     <string name="_225_0574274410">"+225 0574274410 "</string>
     <string name="assiatoudiallo74">\@assiatoudiallo74</string>
     <string name="dialloassiatou7427_gmail_com">dialloassiatou7427@gmail.com</string>

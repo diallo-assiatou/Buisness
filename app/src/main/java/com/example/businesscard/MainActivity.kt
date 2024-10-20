@@ -54,7 +54,7 @@ fun BusinessCard() {
             painter = painterResource(id = R.drawable.android_logo),  
             contentDescription = "Logo",
             modifier = Modifier
-                .size(150.dp)
+                .size(190.dp)
                 .padding(bottom = 16.dp),
             contentScale = ContentScale.Crop
         )
@@ -86,7 +86,7 @@ fun BusinessCard() {
 fun ContactInfo(icon: Int, contactText: String) {
     Row(
         modifier = Modifier
-            .width(200.dp)
+            .width(300.dp)
             //.align(Alignment.CenterVertically)
             .padding(8.dp)
             .fillMaxWidth(),
@@ -98,7 +98,7 @@ fun ContactInfo(icon: Int, contactText: String) {
         Image(
             painter = painterResource(id = icon),
             contentDescription = null,
-            modifier = Modifier.size(24.dp)
+            modifier = Modifier.size(50.dp)
         )
         Spacer(modifier = Modifier.width(16.dp))
         // Texte de contact
